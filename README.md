@@ -1,2 +1,2 @@
 # ML_practice
-# ML_practice
+## Fisher linear discrimination is tried
